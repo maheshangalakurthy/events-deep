@@ -14,8 +14,7 @@ on:
       - master
       - "dev-*"
       - "feat/**"
-    paths:
-      - "**.js"
+
     paths-ignore:
       - ".github/workflows/*"
 
